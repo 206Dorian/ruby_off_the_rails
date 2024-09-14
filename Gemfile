@@ -26,7 +26,7 @@ gem "stimulus-rails"
 
 # Testing frameworks
 group :development, :test do
-  gem 'rspec-rails', '~> 5.0'  # Add this to fix the missing closing quote and specify a version if needed.
+  gem 'rspec-rails', '~> 7.0'  # Add this to fix the missing closing quote and specify a version if needed.
 end
 
 
