@@ -17,7 +17,7 @@ gem 'importmap-rails'
 
 # Other necessary gems
 gem 'sass-rails', '>= 6'
-gem 'puma', '~> 5.0'
+gem 'puma', '~> 6.4'
 gem 'jbuilder', '~> 2.7'
 # Hotwire's SPA-like page accelerator [https://turbo.hotwired.dev]
 gem "turbo-rails"
